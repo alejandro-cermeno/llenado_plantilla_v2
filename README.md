@@ -1,9 +1,11 @@
-# hello_word
+**Llenado de plantilla Word con datos de Excel**
 
-Hello_word automatiza el llenado de una plantilla de carta en Word mediante una base de datos en Excel que contiene información sobre los clientes.
+llenado_plantilla_v1.ipynb automatiza el llenado de campos en una plantilla de en Word con datos en Excel.
 
-db_ejemplo.xls es la base de datos con información sobre los clientes
+* db_ejemplo.xls es la base de datos
 
-carta_ejemplo.docx es la plantilla de carta que se quiere enviar a cada cliente
+* carta_ejemplo.docx es la plantilla cuyos campos se quieren llenar
 
-llenado_plantilla_v1.pynb es el programa que automatiza el llenado de la plantilla en Word con información de la base de datos
+Contacto: alejandro.cermeno@protonmail.com
+
+11-01-2021
