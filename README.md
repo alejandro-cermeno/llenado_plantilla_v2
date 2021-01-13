@@ -1,6 +1,6 @@
 **Llenado de plantilla Word con datos de Excel**
 
-llenado_plantilla_v1.ipynb automatiza el llenado de campos en una plantilla de en Word con datos en Excel.
+llenado_plantilla_v2.ipynb automatiza el llenado de campos en una plantilla de en Word con datos en Excel.
 
 * db_ejemplo.xls es la base de datos
 
